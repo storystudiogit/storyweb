@@ -352,3 +352,5 @@
   .ts-grid .team-card { border-right: none; border-bottom: 0.5px solid var(--rule); }
   .ad-grid { grid-template-columns: 1fr 1fr; }
 }
+
+.ad-grid-3 { grid-template-columns: repeat(3, 1fr) !important; }
